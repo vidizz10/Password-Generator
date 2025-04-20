@@ -1,2 +1,2 @@
 # Password-Generator
-Easy - first project
+First own project. 2025-04-20
